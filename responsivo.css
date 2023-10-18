@@ -1,0 +1,13 @@
+@media (max-width: 425px) {
+    .card {
+        width: 80%;
+    }
+
+    .divisao {
+        margin-bottom: 20px;
+    }
+
+    .conselho {
+        margin: 20px 0 50px;
+    }
+}
